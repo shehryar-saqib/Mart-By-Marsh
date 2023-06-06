@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119937127176",
+    "firebase_url": "https://mart-by-marsh-default-rtdb.firebaseio.com",
+    "project_id": "mart-by-marsh",
+    "storage_bucket": "mart-by-marsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119937127176:android:02b70d5d30da04e30b52bd",
+        "android_client_info": {
+          "package_name": "com.example.martbymarsh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119937127176-usrs6h12m4fmv1qo0uc7kdc5k59r3q5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLdYaZ5LwGTZ3aZGk4EVbuPb8F_owBME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119937127176-usrs6h12m4fmv1qo0uc7kdc5k59r3q5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
